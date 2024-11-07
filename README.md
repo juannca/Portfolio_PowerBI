@@ -5,15 +5,15 @@
 
 # 2. Power BI Projects
 
-* **2.1.) Fishing sector**
-* 
-* **a.) Legal area**
-*   **- Gestión Documentaria:**
+**2.1.) Fishing sector**
+ 
+**a.) Legal area**
+*   **Gestión Documentaria:**
 ![alt text]((S_Pesquero) 1.- Área Legal - Gestión Documentaria.png)
-*   **- Proceso Administrativo Sancionador:**
+*   **Proceso Administrativo Sancionador:**
 ![alt text]((S_Pesquero) 1.- Área Legal - Proceso Administrativo Sancionador.png)
 
-* b.)
+**a.) Production area**
 
 # YouTube Channel
 * **The Link of my YouTube channel is the following:** https://www.youtube.com/channel/UCAdEr61O-jMY0SyzApo91iA
