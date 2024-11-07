@@ -1,19 +1,29 @@
 # Portfolio
 
-# 1. About Me
-*Hello, my name is Nicolás Correa, I am a Systems Engineer with a degree and currently pursuing an MBA and a master's degree in data science. I have more than 9 years of experience in the area of ​​Business Intelligence, passionate about data and the discovery of insights that generate added value for the organization, which are aligned with its strategic objectives. In my years of experience, I have tackled several projects in different sectors (fishing, mining, retail, health, pharmaceutical, marketing, etc.), which have led me to have a broad knowledge of the entire data life cycle, bringing with me the best practices to get the most out of it. Below I will show some of the projects I have undertaken. For confidentiality reasons I have replaced the datasets with demo data and for all projects I will use the same logo so that it is neutral and transversal for all.*
+# 1. Acerca de mí
+*Hola mi nombre es Nicolás Correa, soy Ingeniero de Sistemas titulado y actualmente cursando un MBA y una maestría en ciencia de datos, cuento con más de 9 años de experiencia en el área de Business Intelligence, apasionado por los datos y por el descubrimiento de insights que generen un valor agregado a la organización, los cuales estén alineados a los objetivos estratégicos de la misma. En mis años de experiencia he abordado varios proyectos de diferentes sectores (pesca, minería, retail, salud, famaceútica, marketing, etc), los cuales me han llevado a tener un conocimiento amplio de todo el ciclo de vida del dato llevando conmigo las mejores prácticas para sacarle el mejor provecho. A continuación mostraré algunos de los proyectos los cuales he abordado, ciertamente por confidencialidad he reemplazado los datasets por datos demo y para todos los proyectos usaré un mismo logo para que sea neutral y transversal para todos.*
 
-# 2. Power BI Projects
+# 2. Proyectos Power BI
 
-**2.1.) Fishing sector**
+**2.1.) Sector Pesquero**
  
-**a.) Legal area**
+**a.) Área Legal**
 *   **Gestión Documentaria:**
 ![alt text]((S_Pesquero) 1.- Área Legal - Gestión Documentaria.png)
+
 *   **Proceso Administrativo Sancionador:**
 ![alt text]((S_Pesquero) 1.- Área Legal - Proceso Administrativo Sancionador.png)
 
-**a.) Production area**
+**a.) Área de Producción**
+*   **Producción de Plantas:**
+![alt text]((S_Pesquero) 2.- Área de Producción - Plantas de Producción - Parte1.png)
+
+![alt text]((S_Pesquero) 2.- Área de Producción - Plantas de Producción - Parte2.png)
+
+![alt text]((S_Pesquero) 2.- Área de Producción - Plantas de Producción - Parte3.png)
+
+*   **Producción de Omega:**
+![alt text]((S_Pesquero) 2.- Área de Producción - Producción y Costos por fases de Omega.png)
 
 # YouTube Channel
 * **The Link of my YouTube channel is the following:** https://www.youtube.com/channel/UCAdEr61O-jMY0SyzApo91iA
