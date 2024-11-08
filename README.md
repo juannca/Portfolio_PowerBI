@@ -5,7 +5,7 @@
 
 ## Educación:
 - MBA | EUDE Business School (_Jun 2025_) | Madrid, España							       		
-- Maestría en Ciencia de datos	| The University of Texas at Dallas (_Mar 2020_) | Lima, Perú	 			        		
+- Maestría en Ciencia de datos	| Universidad Ricardo Palma (_Mar 2020_) | Lima, Perú	 			        		
 - Ingeniero de Sistemas | Universidad Nacional Tecnológica de Lima Sur (_Dic 2015_) | Lima, Perú
 
 ## Experiencia:
