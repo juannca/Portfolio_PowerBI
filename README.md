@@ -85,10 +85,10 @@ Qlikview:
 
 
 ## Portafolio de Proyectos en Power BI
-### - Tecnologías que utilizo
+- Tecnologías que utilizo
 ![PORTFOLIO](/img/PAG3-PORTFOLIO.png)
 
-### - Sector Retail
+- Sector Retail
 ![PORTFOLIO](/img/PAG4-PORTFOLIO.png)
 
 ![PORTFOLIO](/img/PAG5-PORTFOLIO.png)
